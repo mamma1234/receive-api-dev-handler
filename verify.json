@@ -1,0 +1,12 @@
+{
+  "rawPath": "/api/v1/oauth/verify",
+  "requestContext": {
+    "http": {
+      "method": "POST"
+    }
+  },
+  "headers": {
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS50ZXN0LXNwb3QuY29tL2FwaS92MS9vYXV0aC9hY2Nlc3NfdG9rZW4iLCJpYXQiOjE3NjM2OTc1MDYsImV4cCI6MTc2NjY5NzUwNiwibmJmIjoxNzYzNjk3NTA2LCJqdGkiOiJOTkxuWHA1d2dzbzJrYlVRIiwic3ViIjoiNTM5NyIsInBydiI6IjQ3ZDcxNjA4Nzg0Y2M2ZTg0NzdkOWQ0MWM0NTJhNjc5YTIxN2U3NGQiLCJ1c2VyX3R5cGUiOjEsIm9wZW5fYXBpIjp0cnVlfQ.5gH40ciaRZ3LdrSmFWLcyQ6DRN-M99eOD5cs2Kib2v8"
+  },
+  "body": "{\"hello\":\"world\"}"
+}
